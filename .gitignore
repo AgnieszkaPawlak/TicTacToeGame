@@ -1,0 +1,11 @@
+# IDE specific files and directories
+/shelf/
+/.idea/
+
+# HTTP Client files
+/httpRequests/
+
+# Database files
+/dataSources/
+/dataSources.local.xml
+
